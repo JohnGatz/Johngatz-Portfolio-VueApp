@@ -13,10 +13,7 @@
           <div class="social-text"><u>I</u>nstagram</div>
         </div>
       </a>
-      <a
-        href="https://www.linkedin.com/in/don-chia-谢祺恩）-0b518b160"
-        target="_blank"
-      >
+      <a href="https://www.linkedin.com/in/johngatz/" target="_blank">
         <div class="bar">
           <img class="social-image" src="@/assets/iPhone-Icons/Linkedin.webp" />
           <u>L</u>inkedIn

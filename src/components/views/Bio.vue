@@ -166,7 +166,7 @@
         UI/UX design skills with tools such as Figma.
       </p>
     </div>
-
+    <!-- 
     <div class="inner-content">
       <h3 class="heading"><b>Résumé</b></h3>
       <a
@@ -175,7 +175,7 @@
         class="paragraph"
         >Check out my résumé here.</a
       >
-    </div>
+    </div> -->
   </div>
 </template>
 
