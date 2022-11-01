@@ -26,7 +26,10 @@
         </div>
       </a>
       <div class="divider"></div>
-      <a href="/files/John_Gutierrez_Resume.pdf" target="_blank">
+      <a
+        href="https://drive.google.com/file/d/17gI4NirI6LrabQsjkWP1JuWKq6LkWZes/view"
+        target="_blank"
+      >
         <div class="bar">
           <img class="social-image" src="@/assets/win95Icons/resume.png" />
           <u>R</u>ésumé

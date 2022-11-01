@@ -3,7 +3,7 @@
     <img class="self" src="@/assets/Biography/me.webp" />
     <h2 class="header">John Gutierrez</h2>
     <h4 class="subtitle" style="padding-bottom: 10px;">
-      Freelance Web Developer | Video Game Developer | UI/UX Designer
+      Freelance Web Developer | Graphic Designer | UI/UX Designer
     </h4>
     <h4 class="subtitle">Winston-Salem 📍</h4>
     <div class="badge-grid">

@@ -62,20 +62,7 @@
       <div class="content">
         <div class="download-bar">
           <a
-            href="/files/John_Gutierrez_Resume.pdf"
-            class="download"
-            style="z-index: 10;"
-            download
-            target="_blank"
-          >
-            <span style="display: flex;" class="border">
-              <img src="../assets/download.png" class="icon-image" />
-              <div style="margin-top: 2px;">Download</div>
-            </span>
-          </a>
-
-          <a
-            href="/files/John_Gutierrez_Resume.pdf"
+            href="https://drive.google.com/file/d/17gI4NirI6LrabQsjkWP1JuWKq6LkWZes/view"
             class="download"
             style="z-index: 10;"
             target="_blank"

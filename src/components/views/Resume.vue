@@ -1,7 +1,7 @@
 <template>
   <div style="display: flex; height:100%; flex-direction: column;">
     <nav class="download-bar">
-      <a
+      <!-- <a
         href="/files/John_Gutierrez_Resume.pdf"
         class="download"
         style="z-index: 10;"
@@ -12,10 +12,10 @@
           <img src="@/assets/download.png" class="icon-image" />
           <p style="margin-top: 2px;">Download</p>
         </span>
-      </a>
+      </a> -->
 
       <a
-        href="/files/John_Gutierrez_Resume.pdf"
+        href="https://drive.google.com/file/d/17gI4NirI6LrabQsjkWP1JuWKq6LkWZes/view"
         class="download"
         style="z-index: 10;"
         target="_blank"
