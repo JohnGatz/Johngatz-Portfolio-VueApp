@@ -1,0 +1,1 @@
+The portfolio website is a unique and nostalgic online platform designed to resemble the iconic Windows 95 desktop interface. It captures the retro aesthetic and user experience of the classic operating system while showcasing a modern portfolio of creative work.
